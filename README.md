@@ -1,6 +1,3 @@
-# neural-network
-I will provide you with a well-structured `README.md` file for your neural network project. This file is designed to be clear and informative, making it easy for others to understand your work on GitHub.
-
 ### Neural Network from Scratch for Classification
 
 This project implements a simple, feedforward neural network from scratch using NumPy to solve binary classification problems. It demonstrates the core principles of neural networks, including forward propagation, backpropagation, and gradient descent. The model is tested on two classic synthetic datasets: **"moons"** and **"blobs"** to showcase its ability to handle both linearly separable and non-linearly separable data.
@@ -63,9 +60,3 @@ The project demonstrates the neural network's performance on two distinct datase
       - The loss for the moons dataset also decreases, starting from \~0.32 and reaching \~0.1.
 
 The visualizations clearly show the separation achieved by the model's predictions for both datasets.
-
------
-
-### 🤝 Contribution
-
-This project is a fundamental implementation for educational purposes. Feel free to fork the repository, experiment with different parameters (like learning rate, number of epochs, or layer sizes), and submit pull requests with improvements.
